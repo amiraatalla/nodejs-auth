@@ -24,6 +24,8 @@
 ## to login an account
 ### POST
 #### /api/auth/signin	
+##### ![image](https://user-images.githubusercontent.com/52547252/116008737-56c25600-a616-11eb-8759-5c5e108f9296.png)
+
 ##
 
 ## to retrieve public content
