@@ -42,6 +42,8 @@
 ## to access Moderator’s content
 ### GET
 #### /api/test/mod	
+##### ![image](https://user-images.githubusercontent.com/52547252/116008868-026ba600-a617-11eb-9728-c63c55175e63.png)
+
 
 
 ##
@@ -49,6 +51,8 @@
 ## to access Admin’s content
 ### GET
 #### /api/test/admin
+##### ![image](https://user-images.githubusercontent.com/52547252/116008956-2d55fa00-a617-11eb-82de-672055bc04b3.png)
+
 
 
 
