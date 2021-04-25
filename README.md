@@ -16,6 +16,8 @@
 ## to signup new account
 ###	POST
 #### /api/auth/signup
+##### ![image](https://user-images.githubusercontent.com/52547252/116008534-62614d00-a615-11eb-82f9-d712b39bdb0b.png)
+
 
 ##
 ## to login an account
